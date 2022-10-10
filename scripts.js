@@ -38,7 +38,7 @@ let opcionUsuario= prompt ("Elegí una opción 1 Piedra, 2 Papel o 3 Tijera");
         if (opcionComputadora=="1" ) { document.write( "Ganaste " +  nombreUsuario + ", yo elegí Piedra");
         break;    }
         
-        else {document.write( "Perdiste " +  nombreUsuario + ", yo elegí Piedra");
+        else {document.write( "Perdiste " +  nombreUsuario + ", yo elegí Tijera");
         break;    }
 
     case "3":
